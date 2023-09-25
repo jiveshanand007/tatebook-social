@@ -1,0 +1,31 @@
+.topbarContainer {
+    height: 50px;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.topbarLeft {
+    background-color: blueviolet;
+    flex: 3;
+}
+
+.topbarCenter {
+    background-color: rgb(44, 94, 144);
+    flex: 5;
+}
+
+.topbarRight {
+    background-color: rgb(149, 177, 79);
+    flex: 4;
+}
+
+.logo {}
+
+.topbarImg {
+    width: 32px;
+    height: 32px;
+}
