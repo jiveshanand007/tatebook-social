@@ -1,3 +1,4 @@
+import React from 'react'
 import "./sidebar.css"
 import { RssFeed, Chat, PlayCircle, Groups, Bookmarks, HelpOutline, Work, Event, School } from '@mui/icons-material';
 import { Users } from "../../dummyData"
